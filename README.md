@@ -5,4 +5,3 @@ Bem-vindo ao primeiro repositório da freecode! Este projeto é desenvolvido por
 # Tecnologias Utilizadas
 
 - HTML
-# projeto_da_freecode1
